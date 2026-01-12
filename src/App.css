@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: system-ui, Arial, sans-serif;
+  background-color: #f1f5f9;
+}
+
+.container {
+  padding: 2rem;
+}
